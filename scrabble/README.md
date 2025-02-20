@@ -1,0 +1,1 @@
+Scrabble program takes two inputs from players and is counting points of each letter in words, after which determines the winner.
