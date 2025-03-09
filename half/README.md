@@ -1,0 +1,1 @@
+This program adds tax and tip to the price and calculates half of it to share with other person.
