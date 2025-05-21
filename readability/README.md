@@ -1,1 +1,0 @@
-This program calculates the approximate grade level needed to comprehend text.
